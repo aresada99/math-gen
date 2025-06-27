@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math-gen/static/css/main.ee415e97.css",
+    "main.js": "/math-gen/static/js/main.6505cf57.js",
+    "index.html": "/math-gen/index.html",
+    "main.ee415e97.css.map": "/math-gen/static/css/main.ee415e97.css.map",
+    "main.6505cf57.js.map": "/math-gen/static/js/main.6505cf57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee415e97.css",
+    "static/js/main.6505cf57.js"
+  ]
+}
